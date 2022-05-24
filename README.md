@@ -1,27 +1,7 @@
-### [title]
-- MATLAB tools for the calculations in PUBLPOL 310 thesis "Towards an Equitable Development of the Regional Earthquake Resilience of the Greater Metro Manila Area, Philippines"
+# Towards an Equitable Development of the Regional Earthquake Resilience of the Greater Metro Manila Area, Philippines 
 
-### [main module]
-- gmma.m
+The Philippines with its densely populated Greater Metro Manila Area faces serious threats to the security of its people, livelihood, and infrastructure from unpredictable earthquakes due to its proximity to the Pacific Ring of Fire. For the past decades, the country’s earthquake resilience has been centered solely on the structural health of a single building without any extensive reference to the socio-economic capacity of its community. Previous large-scale earthquake risk studies also focused only on the well-known “Big One” magnitude-7.2 earthquake scenario for post-earthquake response planning purposes and neglected the probabilistic behavior of earthquake occurrence that can be a basis for policies that could mitigate the risk to the communities. Using the recently released probabilistic earthquake hazard maps in 2020, this study performed the first metropolitan-scale estimation of average annualized earthquake economic losses and ratios of 23 municipalities and cities in the Greater Metro Manila Area and compared the findings with the current socio-economic productivity parameter called the 2021 Cities and Municipalities Competitive Index developed by the national government. Our findings revealed a prevailing disconnect between the socio-economic capacity of different local jurisdictions and their degree of earthquake risk of economic losses, casualties, and damaged floor areas. Our study presents different policy recommendations that can be implemented at the regional and local levels toward an equitable development of earthquake resilience in the region.
 
-### [function - exposure data]
-- loadexposuredata.m
+_Keywords_: Earthquake Risk, Regional Resilience, Metro Manila, Philippines
 
-### [function - hazard data]
-- loadhazarddata.m
-
-### [function - fragility analysis]
-- loadfragilityparameters.m
-- applyfragility.m
-
-### [function - vulnerability analysis]
-- loadvulnerabilityparameters.m
-- loadunitcost.m
-- applyvulnerability.m
-- annualize.m
-
-### [contact info]
-- Joshua T. Dimasaka
-- Public Policy Program
-- Stanford University
-- dimasaka@alumni.stanford.edu
+**Acknowledgments**: The academic fellowships and training from the Stanford Knight-Hennessy Scholars Program and the Earthquakes and Megacities Initiative; the exposure database from the Philippine Institute of Volcanology and Seismology; the hazard models inputs from the Global Earthquake Model Foundation; the administrative support from Professor Marcelo Clerici-Arias, Professor Gregory Rosston, and Kelly Walsh; the mentorship and guidance from Professor Jack Baker and Dr. Fouad Bendimerad; Racquel Hagen of the Blume Earthquake Engineering Center; and the MA Public Policy Thesis Student Support Group are hereby acknowledged.
